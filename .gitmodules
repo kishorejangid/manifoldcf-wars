@@ -1,0 +1,3 @@
+[submodule "web-proprietary"]
+	path = web-proprietary
+	url = https://github.com/kishorejangid/manifoldcf-wars
